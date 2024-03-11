@@ -9,7 +9,7 @@
 
 # Twitter-sentiment-Analysis
 This is a project based on random forest classifier where it predicts whether the tweet is positive, negative, irrelevant or neutral
-you need to install VS code to run this project and Unzip the pickle file analysis.pkl 
+you need to install VS code to run this project
 Steps
 1) Install VS code from - https://code.visualstudio.com/
 2) install python and python debugger in Vs code extensions
