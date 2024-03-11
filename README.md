@@ -1,3 +1,11 @@
+
+
+![2024-03-12 (1)](https://github.com/nitish2811/Twitter-sentiment-Analysis/assets/107723511/7d1f104f-fea2-4c72-8fb3-738ad0bc2a17)
+
+
+
+
+
 # Twitter-sentiment-Analysis
 This is a project based on random forest classifier where it predicts whether the tweet is positive, negative, irrelevant or neutral
 you need to install VS code to run this project
